@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0156bb00-cbf9-4358-891a-3c38c5770b56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brands/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brands/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deliveries/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deliveries/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourites/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourites/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feedbacks/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feedbacks/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orders/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orders/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2y5qdaMvAgBzDrLNOPYJVqpdB2q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Полина/Documents/ТПУ/Магистратура/2 семестр/ТРПО/course/media/photos"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Полина\Documents\ТПУ\Магистратура\2 семестр\ТРПО\course\media\photos" />
+      <recent name="C:\Users\Полина\Documents\ТПУ\Магистратура\2 семестр\ТРПО\course\accounts" />
+      <recent name="C:\Users\Полина\Documents\ТПУ\Магистратура\2 семестр\ТРПО\course\userProfile" />
+      <recent name="C:\Users\Полина\Documents\ТПУ\Магистратура\2 семестр\ТРПО\course\orders" />
+      <recent name="C:\Users\Полина\Documents\ТПУ\Магистратура\2 семестр\ТРПО\course\feedbacks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Полина\Documents\ТПУ\Магистратура\2 семестр\ТРПО\course\static" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0156bb00-cbf9-4358-891a-3c38c5770b56" name="Changes" comment="" />
+      <created>1749134869879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749134869879</updated>
+    </task>
+    <servers />
+  </component>
+</project>
