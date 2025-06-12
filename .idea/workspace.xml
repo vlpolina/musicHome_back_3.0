@@ -5,30 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0156bb00-cbf9-4358-891a-3c38c5770b56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brands/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brands/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/categories/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/categories/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deliveries/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deliveries/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favourites/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favourites/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feedbacks/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feedbacks/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feedbacks/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brands/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/brands/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brands/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/brands/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brands/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/brands/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/categories/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/categories/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliveries/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/deliveries/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliveries/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/deliveries/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliveries/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/deliveries/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vlpolina&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vlpolina/musicHome_back_3.0.git&quot;,
+    &quot;accountId&quot;: &quot;d920d440-e922-4848-8ded-c10fd067bdad&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -54,14 +52,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Полина/Documents/ТПУ/Магистратура/2 семестр/ТРПО/course/media/photos"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Полина/Documents/ТПУ/Магистратура/2 семестр/ТРПО/course/media/photos&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Полина\Documents\ТПУ\Магистратура\2 семестр\ТРПО\course\media\photos" />

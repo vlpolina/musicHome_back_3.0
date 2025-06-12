@@ -10,4 +10,6 @@ routerAdmin.register(r'crud-deliveries', AdminDeliverySet, basename='admin_crud_
 urlpatterns = [
     path('get-all/', DeliveriesList.as_view(), name="get_all"),
     path('admin/', include(routerAdmin.urls), name="crud_deliveries"),
+    path('filtered/', FilteredDeliveriesView.as_view(), name="filtered_deliveries"),
+    path('admin/stats/', DeliveryStatsView.as_view(), name="delivery_stats"),
 ]
